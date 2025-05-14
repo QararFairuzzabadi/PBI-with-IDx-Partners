@@ -1,4 +1,4 @@
-# PBI-with-IDx-Partners
+# Application of Machine Learning for Credit Risk Prediction in Consumer Loans
 
 ## Background
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
