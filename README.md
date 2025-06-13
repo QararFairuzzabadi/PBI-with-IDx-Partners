@@ -4,7 +4,7 @@
 
 ### Introduction
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
-Hi, I'm M. Razy Qarar Fairuzzabadi, an Enthusiast Data Scientist who is doing his final project as a Data Scientist in ID/X Partners Project Based Internship program. This dataset consists of <b>466,285 rows</b> and <b>70 columns</b>. In this project, I will build an optimal model to predict the loan status of customers by using classification algorithms in supervised learning.
+Hi, I'm M. Razy Qarar Fairuzzabadi, an Enthusiast Data Scientist who is doing his final project as a Data Scientist in ID/X Partners Project Based Internship program. This dataset consists of <b>466285 rows</b> and <b>74 columns</b>. In this project, I will build an optimal model to predict the loan status of customers by using classification algorithms in supervised learning.
 </p>
 
 ### Contents
